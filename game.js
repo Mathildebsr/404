@@ -3,7 +3,7 @@ const config = {
     gravity: 0.4,
     jumpForce: -7,
     pipeSpeed: 2,
-    pipeGap: 80,
+    pipeGap: 100,
     pipeFrequency: 1800, // ms
     birdSize: 12,
     groundHeight: 20
